@@ -10,7 +10,7 @@ API со встроенным сервисом [Aniemore](https://github.com/ani
 git clone https://github.com/firepanda70/russian_emotion_detection_api
 ```
 
-- Собрать и запустить Docker образ
+- Собрать и запустить Docker контейнер 
 ```
 cd /russian_emotion_detection_api
 docker build -t emotion_api .
