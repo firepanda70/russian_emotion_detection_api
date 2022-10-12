@@ -22,7 +22,7 @@ API сервиса будет доступен по адресу http://127.0.0.
 ## Endpoints
 
 - [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) - документация Swagger
-- [http://127.0.0.1:8000/russian_emotion_post/](http://127.0.0.1:8000/russian_emotion_post/) - ендпоинт для POST запросов. Пример:
+- [http://127.0.0.1:8000/russian_emotion_post/](http://127.0.0.1:8000/russian_emotion_post/) - эндпоинт для POST запросов. Пример:
 
 ### Запрос: 
 ```
